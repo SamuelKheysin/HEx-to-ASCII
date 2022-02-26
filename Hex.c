@@ -1,8 +1,5 @@
 /*
 Author: Samuel Kheysin
-Date: 5/30/21
-Description:Use the Unix/Linux compiler to perform certain exercises and create some ASCII art with file I/O
-Usage:<exe> <input file> <-a|-i> <outputfile>
 */
 
 #include <stdio.h>
